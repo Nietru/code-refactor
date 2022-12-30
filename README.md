@@ -33,6 +33,5 @@ https://unh.bootcampcontent.com/unh-coding-bootcamp/UNH-VIRT-FSF-PT-12-2022-U-LO
 Please reference the GitHub Repo.
 
 ## Screencapture
-```md
-![image of the finished Horiseon Marketing webpage](images/readme-screenshot.PNG)
-```
+
+ ![Picture of the finishied Horiseon Marketing webpage](/images/readme-screenshot.PNG?raw=true)
