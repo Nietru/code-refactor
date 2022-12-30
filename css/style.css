@@ -87,8 +87,6 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    /* added lines 91 and 92, which made the next three style sections unneccesary. */
-    margin-bottom: 32px; 
     color: #ffffff;
 }
 
@@ -214,7 +212,7 @@ p {
 /* replaces the benefit- selectors from lines 127-136 of this stylesheet */
 .icon {
     display: block;
-    margin: 25px auto; /* changed to 25 instead of 10 pixels, so that it is closer to the length of the content beside it. */
+    margin: 10px auto; 
     max-width: 150px;
 }
 
