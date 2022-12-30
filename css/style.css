@@ -214,7 +214,7 @@ p {
 /* replaces the benefit- selectors from lines 127-136 of this stylesheet */
 .icon {
     display: block;
-    margin: 45px auto; /* changed to 45 instead of ten pixels, so that it matched the length of the content beside it. */
+    margin: 12px auto; /* changed to 12 instead of 10 pixels, so that it matched the length of the content beside it. */
     max-width: 150px;
 }
 
