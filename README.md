@@ -2,21 +2,13 @@
 
 ## Description
 
-GIVEN a webpage meets accessibility standards, 
-WHEN I view the source code, 
-THEN I find semantic HTML elements. 
-WHEN I view the structure of the HTML elements, 
-THEN I find that the elements follow a logical structure independent of styling and positioning. 
-WHEN I view the icon and image elements, 
-THEN I find accessible alt attributes. 
-WHEN I view the heading attributes, 
-THEN they fall in sequential order. 
-WHEN I view the title element, 
-THEN I find a concise, descriptive title. 
+My motivation for this webpage was to leave the code better than how i received it, and to acquire new skills in HTML semantics, while completing the acceptance criteria to the best of my ability.
 
-I built this project to make the code in the html file more semantic and less conjested, while keeping the deployed result esentially the same for the user. I also solved the problem with a disfunctional link in the header. 
+I built off this project to make a more accesible version for the user without changing the overall appearance for the client.
 
-I learned that there are many different ways to make different code have the same result.
+I solved the accessibility issue with a descriptive webpage title, full functioning links, alt attributes for all of the visuals within the HTML file, and a sequential order for all of the heading attributes. 
+
+I learned that there are many different ways to make different code have the same result. I also learned that there is a difference between a descriptive title and a title website, and that heading attributes need to go from largest to smallest from the top to the bottom of the HTML file.
 
 ## Installation
 
